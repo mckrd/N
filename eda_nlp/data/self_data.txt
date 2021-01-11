@@ -1,1 +1,2 @@
-1	He is a good father.
+He is a good father.
+He is a bad father.
